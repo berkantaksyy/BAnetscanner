@@ -4,7 +4,7 @@ ENG :
 
 How to install that netscanner ? 
 
-$git clone https://github.com/berkantaksyy/BAnetscanner.git
+$git clone www.github.com/berkantaksyy/BAnetscanner.git
 
 How do I use that ?
 
@@ -20,7 +20,7 @@ TR :
 
 Nasıl indirebilirim ?
 
-$git clone https://github.com/berkantaksyy/BAnetscanner.git
+$git clone www.github.com/berkantaksyy/BAnetscanner.git
 
 Nasıl Kullanacağım ?
 
